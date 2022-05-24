@@ -1,11 +1,5 @@
 [
   {
-    "full_name": "EinAeffchen/Fapflix2.0",
-    "stargazers_count": 71,
-    "open_issues_count": 1,
-    "forks_count": 8
-  },
-  {
     "full_name": "JaimeStill/DynamicSql",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -127,7 +121,7 @@
   },
   {
     "full_name": "learnapollo/learnapollo",
-    "stargazers_count": 5268,
+    "stargazers_count": 5267,
     "open_issues_count": 10,
     "forks_count": 67
   },
@@ -139,9 +133,9 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 123259,
+    "stargazers_count": 123275,
     "open_issues_count": 135,
-    "forks_count": 23664
+    "forks_count": 23672
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,7 +145,7 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 59859,
+    "stargazers_count": 59864,
     "open_issues_count": 5,
     "forks_count": 5804
   },
@@ -178,5 +172,11 @@
     "stargazers_count": 3274,
     "open_issues_count": 124,
     "forks_count": 1626
+  },
+  {
+    "full_name": "sitepoint-editors/awesome-symfony",
+    "stargazers_count": 1442,
+    "open_issues_count": 8,
+    "forks_count": 214
   }
 ]
