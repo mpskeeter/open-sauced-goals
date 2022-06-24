@@ -31,7 +31,7 @@
   },
   {
     "full_name": "CodingGarden/faqs",
-    "stargazers_count": 106,
+    "stargazers_count": 107,
     "open_issues_count": 5,
     "forks_count": 8
   },
@@ -62,7 +62,7 @@
   {
     "full_name": "sorskoot/RosieBot",
     "stargazers_count": 8,
-    "open_issues_count": 10,
+    "open_issues_count": 11,
     "forks_count": 1
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "CodingGarden/twitch-bot",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 6,
     "forks_count": 8
   },
@@ -104,12 +104,12 @@
   {
     "full_name": "SickChill/SickChill",
     "stargazers_count": 2213,
-    "open_issues_count": 12,
+    "open_issues_count": 11,
     "forks_count": 626
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4564,
+    "stargazers_count": 4565,
     "open_issues_count": 1,
     "forks_count": 599
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16821,
+    "stargazers_count": 16822,
     "open_issues_count": 548,
     "forks_count": 925
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 124162,
+    "stargazers_count": 124225,
     "open_issues_count": 133,
-    "forks_count": 23816
+    "forks_count": 23825
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 60355,
+    "stargazers_count": 60387,
     "open_issues_count": 2,
-    "forks_count": 5854
+    "forks_count": 5857
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -157,7 +157,7 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1725,
+    "stargazers_count": 1726,
     "open_issues_count": 98,
     "forks_count": 302
   },
@@ -171,12 +171,12 @@
     "full_name": "FriendsOfSymfony/FOSUserBundle",
     "stargazers_count": 3274,
     "open_issues_count": 124,
-    "forks_count": 1625
+    "forks_count": 1624
   },
   {
     "full_name": "sitepoint-editors/awesome-symfony",
     "stargazers_count": 1445,
-    "open_issues_count": 8,
-    "forks_count": 215
+    "open_issues_count": 9,
+    "forks_count": 216
   }
 ]
