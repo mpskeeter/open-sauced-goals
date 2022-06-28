@@ -87,7 +87,7 @@
     "full_name": "DanWahlin/AngularCLI-ASPNET-Core-CustomersService",
     "stargazers_count": 71,
     "open_issues_count": 0,
-    "forks_count": 47
+    "forks_count": 48
   },
   {
     "full_name": "AmitXShukla/GraphQL-Middleware-JWTAUTH-Authorization",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "SickChill/SickChill",
-    "stargazers_count": 2213,
-    "open_issues_count": 11,
+    "stargazers_count": 2216,
+    "open_issues_count": 13,
     "forks_count": 626
   },
   {
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16822,
+    "stargazers_count": 16820,
     "open_issues_count": 548,
     "forks_count": 925
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 124243,
+    "stargazers_count": 124312,
     "open_issues_count": 134,
-    "forks_count": 23825
+    "forks_count": 23838
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -145,9 +145,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 60404,
+    "stargazers_count": 60435,
     "open_issues_count": 2,
-    "forks_count": 5859
+    "forks_count": 5861
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "sitepoint-editors/awesome-symfony",
-    "stargazers_count": 1445,
+    "stargazers_count": 1444,
     "open_issues_count": 9,
     "forks_count": 216
   }
