@@ -27,19 +27,19 @@
     "full_name": "JaimeStill/offline-platform",
     "stargazers_count": 1,
     "open_issues_count": 5,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "bdougie/bot-test-repo",
     "stargazers_count": 14,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 4
   },
   {
     "full_name": "CodingGarden/faqs",
     "stargazers_count": 117,
     "open_issues_count": 5,
-    "forks_count": 8
+    "forks_count": 9
   },
   {
     "full_name": "cartant/rxjs-pluggables",
@@ -75,7 +75,7 @@
     "full_name": "proudmonkey/ApiBoilerPlate",
     "stargazers_count": 362,
     "open_issues_count": 9,
-    "forks_count": 72
+    "forks_count": 73
   },
   {
     "full_name": "ng-bs/fancy-credit-card-form",
@@ -93,7 +93,7 @@
     "full_name": "DanWahlin/AngularCLI-ASPNET-Core-CustomersService",
     "stargazers_count": 75,
     "open_issues_count": 0,
-    "forks_count": 48
+    "forks_count": 50
   },
   {
     "full_name": "AmitXShukla/GraphQL-Middleware-JWTAUTH-Authorization",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "SickChill/SickChill",
-    "stargazers_count": 2232,
-    "open_issues_count": 8,
-    "forks_count": 621
+    "stargazers_count": 2233,
+    "open_issues_count": 13,
+    "forks_count": 622
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
     "stargazers_count": 4588,
     "open_issues_count": 1,
-    "forks_count": 602
+    "forks_count": 603
   },
   {
     "full_name": "githubtraining/advanced-git",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16822,
+    "stargazers_count": 16819,
     "open_issues_count": 550,
-    "forks_count": 923
+    "forks_count": 924
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 125517,
+    "stargazers_count": 125657,
     "open_issues_count": 145,
-    "forks_count": 24031
+    "forks_count": 24055
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 61112,
-    "open_issues_count": 4,
-    "forks_count": 5912
+    "stargazers_count": 61156,
+    "open_issues_count": 5,
+    "forks_count": 5914
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1735,
+    "stargazers_count": 1736,
     "open_issues_count": 103,
     "forks_count": 303
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "FriendsOfSymfony/FOSUserBundle",
-    "stargazers_count": 3270,
+    "stargazers_count": 3269,
     "open_issues_count": 124,
-    "forks_count": 1626
+    "forks_count": 1625
   }
 ]
