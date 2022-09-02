@@ -109,13 +109,13 @@
   },
   {
     "full_name": "SickChill/SickChill",
-    "stargazers_count": 2234,
-    "open_issues_count": 11,
-    "forks_count": 622
+    "stargazers_count": 2239,
+    "open_issues_count": 15,
+    "forks_count": 623
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4595,
+    "stargazers_count": 4598,
     "open_issues_count": 1,
     "forks_count": 604
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "learnapollo/learnapollo",
-    "stargazers_count": 5260,
+    "stargazers_count": 5258,
     "open_issues_count": 10,
     "forks_count": 67
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16813,
-    "open_issues_count": 549,
+    "stargazers_count": 16817,
+    "open_issues_count": 2,
     "forks_count": 924
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 126695,
+    "stargazers_count": 126797,
     "open_issues_count": 146,
-    "forks_count": 24179
+    "forks_count": 24202
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 61549,
+    "stargazers_count": 61602,
     "open_issues_count": 6,
     "forks_count": 5938
   },
@@ -164,8 +164,8 @@
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
     "stargazers_count": 1738,
-    "open_issues_count": 103,
-    "forks_count": 302
+    "open_issues_count": 104,
+    "forks_count": 303
   },
   {
     "full_name": "PUGX/PUGXMultiUserBundle",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "FriendsOfSymfony/FOSUserBundle",
-    "stargazers_count": 3271,
+    "stargazers_count": 3269,
     "open_issues_count": 116,
-    "forks_count": 1624
+    "forks_count": 1623
   }
 ]
