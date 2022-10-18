@@ -37,7 +37,7 @@
   },
   {
     "full_name": "CodingGarden/faqs",
-    "stargazers_count": 121,
+    "stargazers_count": 122,
     "open_issues_count": 5,
     "forks_count": 9
   },
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "vaniacer/sshto",
-    "stargazers_count": 357,
-    "open_issues_count": 3,
+    "stargazers_count": 381,
+    "open_issues_count": 4,
     "forks_count": 40
   },
   {
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "proudmonkey/ApiBoilerPlate",
-    "stargazers_count": 363,
+    "stargazers_count": 362,
     "open_issues_count": 9,
     "forks_count": 73
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2256,
-    "open_issues_count": 7,
+    "stargazers_count": 2260,
+    "open_issues_count": 6,
     "forks_count": 621
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4622,
+    "stargazers_count": 4624,
     "open_issues_count": 1,
     "forks_count": 605
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "learnapollo/learnapollo",
-    "stargazers_count": 5251,
+    "stargazers_count": 5250,
     "open_issues_count": 10,
     "forks_count": 67
   },
@@ -139,9 +139,9 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 127838,
+    "stargazers_count": 127914,
     "open_issues_count": 147,
-    "forks_count": 24367
+    "forks_count": 24380
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 62317,
-    "open_issues_count": 8,
-    "forks_count": 6015
+    "stargazers_count": 62346,
+    "open_issues_count": 9,
+    "forks_count": 6020
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1744,
+    "stargazers_count": 1743,
     "open_issues_count": 98,
     "forks_count": 309
   },
@@ -176,7 +176,7 @@
   {
     "full_name": "FriendsOfSymfony/FOSUserBundle",
     "stargazers_count": 3268,
-    "open_issues_count": 116,
-    "forks_count": 1622
+    "open_issues_count": 117,
+    "forks_count": 1620
   }
 ]
