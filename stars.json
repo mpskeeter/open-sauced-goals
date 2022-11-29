@@ -91,9 +91,9 @@
   },
   {
     "full_name": "DanWahlin/AngularCLI-ASPNET-Core-CustomersService",
-    "stargazers_count": 80,
+    "stargazers_count": 82,
     "open_issues_count": 0,
-    "forks_count": 54
+    "forks_count": 55
   },
   {
     "full_name": "AmitXShukla/GraphQL-Middleware-JWTAUTH-Authorization",
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2269,
-    "open_issues_count": 12,
+    "stargazers_count": 2271,
+    "open_issues_count": 13,
     "forks_count": 621
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4658,
+    "stargazers_count": 4660,
     "open_issues_count": 2,
     "forks_count": 608
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "learnapollo/learnapollo",
-    "stargazers_count": 5246,
+    "stargazers_count": 5245,
     "open_issues_count": 10,
     "forks_count": 67
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16779,
+    "stargazers_count": 16776,
     "open_issues_count": 2,
     "forks_count": 919
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 128951,
-    "open_issues_count": 148,
-    "forks_count": 24577
+    "stargazers_count": 129183,
+    "open_issues_count": 149,
+    "forks_count": 24604
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,8 +151,8 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 62839,
-    "open_issues_count": 11,
+    "stargazers_count": 62896,
+    "open_issues_count": 12,
     "forks_count": 6082
   },
   {
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1745,
+    "stargazers_count": 1746,
     "open_issues_count": 94,
     "forks_count": 310
   },
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "FriendsOfSymfony/FOSUserBundle",
-    "stargazers_count": 3266,
+    "stargazers_count": 3265,
     "open_issues_count": 116,
     "forks_count": 1616
   }
