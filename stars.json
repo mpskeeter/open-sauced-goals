@@ -37,7 +37,7 @@
   },
   {
     "full_name": "CodingGarden/faqs",
-    "stargazers_count": 125,
+    "stargazers_count": 126,
     "open_issues_count": 3,
     "forks_count": 11
   },
@@ -55,20 +55,20 @@
   },
   {
     "full_name": "vaniacer/sshto",
-    "stargazers_count": 419,
-    "open_issues_count": 3,
-    "forks_count": 48
+    "stargazers_count": 430,
+    "open_issues_count": 4,
+    "forks_count": 47
   },
   {
     "full_name": "callowcreation/basic-twitch-oauth",
     "stargazers_count": 13,
-    "open_issues_count": 4,
+    "open_issues_count": 5,
     "forks_count": 5
   },
   {
     "full_name": "sorskoot/RosieBot",
     "stargazers_count": 8,
-    "open_issues_count": 18,
+    "open_issues_count": 19,
     "forks_count": 1
   },
   {
@@ -109,14 +109,14 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2271,
-    "open_issues_count": 12,
-    "forks_count": 621
+    "stargazers_count": 2273,
+    "open_issues_count": 14,
+    "forks_count": 622
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4670,
-    "open_issues_count": 2,
+    "stargazers_count": 4673,
+    "open_issues_count": 1,
     "forks_count": 606
   },
   {
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16774,
+    "stargazers_count": 16771,
     "open_issues_count": 2,
     "forks_count": 916
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 129486,
+    "stargazers_count": 129557,
     "open_issues_count": 151,
-    "forks_count": 24650
+    "forks_count": 24656
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 63079,
+    "stargazers_count": 63136,
     "open_issues_count": 12,
-    "forks_count": 6092
+    "forks_count": 6101
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "FriendsOfSymfony/FOSUserBundle",
-    "stargazers_count": 3266,
+    "stargazers_count": 3267,
     "open_issues_count": 116,
     "forks_count": 1616
   }
