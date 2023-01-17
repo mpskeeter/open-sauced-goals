@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "marcel-dempers/docker-development-youtube-series",
+    "stargazers_count": 3805,
+    "open_issues_count": 15,
+    "forks_count": 3065
+  },
+  {
     "full_name": "fboeller/microfrontends-with-angular",
     "stargazers_count": 6,
     "open_issues_count": 2,
@@ -50,12 +56,12 @@
   {
     "full_name": "CodingGarden/sproutkit",
     "stargazers_count": 34,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 9
   },
   {
     "full_name": "vaniacer/sshto",
-    "stargazers_count": 439,
+    "stargazers_count": 440,
     "open_issues_count": 2,
     "forks_count": 49
   },
@@ -109,13 +115,13 @@
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4693,
+    "stargazers_count": 4695,
     "open_issues_count": 1,
     "forks_count": 607
   },
   {
     "full_name": "githubtraining/advanced-git",
-    "stargazers_count": 51,
+    "stargazers_count": 52,
     "open_issues_count": 0,
     "forks_count": 13
   },
@@ -127,15 +133,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16761,
+    "stargazers_count": 16756,
     "open_issues_count": 2,
     "forks_count": 914
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 130805,
+    "stargazers_count": 130939,
     "open_issues_count": 154,
-    "forks_count": 24826
+    "forks_count": 24843
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 63707,
+    "stargazers_count": 63753,
     "open_issues_count": 12,
-    "forks_count": 6134
+    "forks_count": 6138
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -157,26 +163,20 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1753,
-    "open_issues_count": 95,
+    "stargazers_count": 1754,
+    "open_issues_count": 96,
     "forks_count": 310
   },
   {
     "full_name": "PUGX/PUGXMultiUserBundle",
     "stargazers_count": 163,
     "open_issues_count": 46,
-    "forks_count": 99
+    "forks_count": 98
   },
   {
     "full_name": "FriendsOfSymfony/FOSUserBundle",
-    "stargazers_count": 3267,
+    "stargazers_count": 3266,
     "open_issues_count": 117,
     "forks_count": 1611
-  },
-  {
-    "full_name": "sitepoint-editors/awesome-symfony",
-    "stargazers_count": 1483,
-    "open_issues_count": 5,
-    "forks_count": 221
   }
 ]
