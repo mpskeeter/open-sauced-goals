@@ -1,9 +1,9 @@
 [
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 3937,
-    "open_issues_count": 15,
-    "forks_count": 3102
+    "stargazers_count": 3946,
+    "open_issues_count": 11,
+    "forks_count": 3112
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
@@ -55,8 +55,8 @@
   },
   {
     "full_name": "CodingGarden/sproutkit",
-    "stargazers_count": 35,
-    "open_issues_count": 7,
+    "stargazers_count": 36,
+    "open_issues_count": 8,
     "forks_count": 9
   },
   {
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2284,
+    "stargazers_count": 2283,
     "open_issues_count": 14,
     "forks_count": 619
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4706,
+    "stargazers_count": 4708,
     "open_issues_count": 1,
     "forks_count": 608
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "learnapollo/learnapollo",
-    "stargazers_count": 5239,
+    "stargazers_count": 5237,
     "open_issues_count": 10,
     "forks_count": 67
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16749,
+    "stargazers_count": 16748,
     "open_issues_count": 2,
-    "forks_count": 913
+    "forks_count": 912
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 131260,
-    "open_issues_count": 156,
-    "forks_count": 24893
+    "stargazers_count": 131316,
+    "open_issues_count": 157,
+    "forks_count": 24901
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 63925,
+    "stargazers_count": 63949,
     "open_issues_count": 8,
-    "forks_count": 6139
+    "forks_count": 6145
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -163,7 +163,7 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1759,
+    "stargazers_count": 1760,
     "open_issues_count": 96,
     "forks_count": 310
   },
