@@ -1,15 +1,15 @@
 [
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 3946,
-    "open_issues_count": 11,
-    "forks_count": 3112
+    "stargazers_count": 3961,
+    "open_issues_count": 9,
+    "forks_count": 3124
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
     "stargazers_count": 6,
     "open_issues_count": 2,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "JaimeStill/DynamicSql",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "CodingGarden/faqs",
-    "stargazers_count": 130,
+    "stargazers_count": 131,
     "open_issues_count": 3,
     "forks_count": 12
   },
@@ -56,7 +56,7 @@
   {
     "full_name": "CodingGarden/sproutkit",
     "stargazers_count": 36,
-    "open_issues_count": 8,
+    "open_issues_count": 7,
     "forks_count": 9
   },
   {
@@ -92,7 +92,7 @@
   {
     "full_name": "DanWahlin/AngularCLI-ASPNET-Core-CustomersService",
     "stargazers_count": 89,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 59
   },
   {
@@ -110,14 +110,14 @@
   {
     "full_name": "SickChill/sickchill",
     "stargazers_count": 2283,
-    "open_issues_count": 14,
+    "open_issues_count": 15,
     "forks_count": 619
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4708,
+    "stargazers_count": 4709,
     "open_issues_count": 1,
-    "forks_count": 608
+    "forks_count": 609
   },
   {
     "full_name": "githubtraining/advanced-git",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "learnapollo/learnapollo",
-    "stargazers_count": 5237,
+    "stargazers_count": 5238,
     "open_issues_count": 10,
     "forks_count": 67
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16748,
+    "stargazers_count": 16747,
     "open_issues_count": 2,
     "forks_count": 912
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 131316,
+    "stargazers_count": 131377,
     "open_issues_count": 157,
-    "forks_count": 24901
+    "forks_count": 24910
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 63949,
+    "stargazers_count": 63975,
     "open_issues_count": 8,
-    "forks_count": 6145
+    "forks_count": 6147
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -177,6 +177,6 @@
     "full_name": "FriendsOfSymfony/FOSUserBundle",
     "stargazers_count": 3268,
     "open_issues_count": 118,
-    "forks_count": 1611
+    "forks_count": 1612
   }
 ]
