@@ -1,13 +1,13 @@
 [
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 3994,
-    "open_issues_count": 9,
-    "forks_count": 3134
+    "stargazers_count": 4003,
+    "open_issues_count": 10,
+    "forks_count": 3147
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
-    "stargazers_count": 7,
+    "stargazers_count": 9,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -91,7 +91,7 @@
   },
   {
     "full_name": "DanWahlin/AngularCLI-ASPNET-Core-CustomersService",
-    "stargazers_count": 89,
+    "stargazers_count": 90,
     "open_issues_count": 3,
     "forks_count": 59
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2287,
-    "open_issues_count": 17,
+    "stargazers_count": 2288,
+    "open_issues_count": 14,
     "forks_count": 619
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4715,
+    "stargazers_count": 4716,
     "open_issues_count": 1,
     "forks_count": 611
   },
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "learnapollo/learnapollo",
-    "stargazers_count": 5238,
+    "stargazers_count": 5237,
     "open_issues_count": 10,
     "forks_count": 67
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16742,
+    "stargazers_count": 16740,
     "open_issues_count": 2,
     "forks_count": 911
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 131532,
-    "open_issues_count": 157,
-    "forks_count": 24933
+    "stargazers_count": 131585,
+    "open_issues_count": 158,
+    "forks_count": 24951
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 64051,
+    "stargazers_count": 64134,
     "open_issues_count": 8,
-    "forks_count": 6147
+    "forks_count": 6166
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -164,7 +164,7 @@
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
     "stargazers_count": 1760,
-    "open_issues_count": 96,
+    "open_issues_count": 95,
     "forks_count": 310
   },
   {
@@ -177,6 +177,6 @@
     "full_name": "FriendsOfSymfony/FOSUserBundle",
     "stargazers_count": 3267,
     "open_issues_count": 118,
-    "forks_count": 1612
+    "forks_count": 1611
   }
 ]
