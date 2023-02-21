@@ -1,13 +1,13 @@
 [
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 4003,
-    "open_issues_count": 10,
-    "forks_count": 3147
+    "stargazers_count": 4014,
+    "open_issues_count": 11,
+    "forks_count": 3158
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
-    "stargazers_count": 9,
+    "stargazers_count": 11,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -56,12 +56,12 @@
   {
     "full_name": "CodingGarden/sproutkit",
     "stargazers_count": 36,
-    "open_issues_count": 8,
+    "open_issues_count": 9,
     "forks_count": 9
   },
   {
     "full_name": "vaniacer/sshto",
-    "stargazers_count": 441,
+    "stargazers_count": 442,
     "open_issues_count": 3,
     "forks_count": 50
   },
@@ -93,7 +93,7 @@
     "full_name": "DanWahlin/AngularCLI-ASPNET-Core-CustomersService",
     "stargazers_count": 90,
     "open_issues_count": 3,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "AmitXShukla/GraphQL-Middleware-JWTAUTH-Authorization",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2288,
-    "open_issues_count": 14,
+    "stargazers_count": 2289,
+    "open_issues_count": 15,
     "forks_count": 619
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4716,
+    "stargazers_count": 4720,
     "open_issues_count": 1,
-    "forks_count": 611
+    "forks_count": 613
   },
   {
     "full_name": "githubtraining/advanced-git",
@@ -127,21 +127,21 @@
   },
   {
     "full_name": "learnapollo/learnapollo",
-    "stargazers_count": 5237,
+    "stargazers_count": 5235,
     "open_issues_count": 10,
     "forks_count": 67
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16740,
+    "stargazers_count": 16739,
     "open_issues_count": 2,
     "forks_count": 911
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 131585,
+    "stargazers_count": 131664,
     "open_issues_count": 158,
-    "forks_count": 24951
+    "forks_count": 24956
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 64134,
+    "stargazers_count": 64217,
     "open_issues_count": 8,
-    "forks_count": 6166
+    "forks_count": 6173
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
