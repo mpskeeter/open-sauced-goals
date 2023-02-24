@@ -1,9 +1,9 @@
 [
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 4014,
+    "stargazers_count": 4027,
     "open_issues_count": 11,
-    "forks_count": 3158
+    "forks_count": 3162
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "proudmonkey/ApiBoilerPlate",
-    "stargazers_count": 361,
+    "stargazers_count": 362,
     "open_issues_count": 9,
     "forks_count": 73
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "AmitXShukla/GraphQL-Middleware-JWTAUTH-Authorization",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 8,
     "forks_count": 6
   },
@@ -109,13 +109,13 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2289,
+    "stargazers_count": 2292,
     "open_issues_count": 15,
-    "forks_count": 619
+    "forks_count": 618
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4720,
+    "stargazers_count": 4724,
     "open_issues_count": 1,
     "forks_count": 613
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "learnapollo/learnapollo",
-    "stargazers_count": 5235,
+    "stargazers_count": 5234,
     "open_issues_count": 10,
     "forks_count": 67
   },
@@ -135,13 +135,13 @@
     "full_name": "prisma/prisma1",
     "stargazers_count": 16739,
     "open_issues_count": 2,
-    "forks_count": 911
+    "forks_count": 910
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 131664,
-    "open_issues_count": 158,
-    "forks_count": 24956
+    "stargazers_count": 131732,
+    "open_issues_count": 157,
+    "forks_count": 24964
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 64217,
+    "stargazers_count": 64263,
     "open_issues_count": 8,
-    "forks_count": 6173
+    "forks_count": 6178
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "FriendsOfSymfony/FOSUserBundle",
-    "stargazers_count": 3267,
+    "stargazers_count": 3266,
     "open_issues_count": 118,
-    "forks_count": 1611
+    "forks_count": 1610
   }
 ]
