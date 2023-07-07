@@ -1,7 +1,7 @@
 [
   {
     "full_name": "2004content/rarbg",
-    "stargazers_count": 4695,
+    "stargazers_count": 4694,
     "open_issues_count": 24,
     "forks_count": 898
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 4376,
+    "stargazers_count": 4377,
     "open_issues_count": 22,
-    "forks_count": 3464
+    "forks_count": 3472
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "CodingGarden/faqs",
-    "stargazers_count": 134,
+    "stargazers_count": 133,
     "open_issues_count": 2,
     "forks_count": 14
   },
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "vaniacer/sshto",
-    "stargazers_count": 478,
+    "stargazers_count": 480,
     "open_issues_count": 5,
     "forks_count": 57
   },
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2323,
-    "open_issues_count": 8,
-    "forks_count": 618
+    "stargazers_count": 2322,
+    "open_issues_count": 14,
+    "forks_count": 619
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4775,
+    "stargazers_count": 4776,
     "open_issues_count": 1,
     "forks_count": 616
   },
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16692,
+    "stargazers_count": 16690,
     "open_issues_count": 2,
-    "forks_count": 908
+    "forks_count": 909
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 135234,
+    "stargazers_count": 135280,
     "open_issues_count": 158,
-    "forks_count": 25793
+    "forks_count": 25811
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 65568,
+    "stargazers_count": 65590,
     "open_issues_count": 4,
-    "forks_count": 6294
+    "forks_count": 6296
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1769,
+    "stargazers_count": 1768,
     "open_issues_count": 97,
     "forks_count": 312
   }
