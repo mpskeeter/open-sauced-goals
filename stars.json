@@ -1,9 +1,9 @@
 [
   {
     "full_name": "2004content/rarbg",
-    "stargazers_count": 4687,
+    "stargazers_count": 4688,
     "open_issues_count": 24,
-    "forks_count": 898
+    "forks_count": 897
   },
   {
     "full_name": "MarikaKonturova/Jira_analyzer",
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 4435,
+    "stargazers_count": 4438,
     "open_issues_count": 22,
-    "forks_count": 3523
+    "forks_count": 3528
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
@@ -121,8 +121,8 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2337,
-    "open_issues_count": 8,
+    "stargazers_count": 2338,
+    "open_issues_count": 9,
     "forks_count": 618
   },
   {
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16675,
+    "stargazers_count": 16676,
     "open_issues_count": 2,
     "forks_count": 907
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 135827,
+    "stargazers_count": 135905,
     "open_issues_count": 159,
-    "forks_count": 25929
+    "forks_count": 25948
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 65830,
+    "stargazers_count": 65852,
     "open_issues_count": 5,
-    "forks_count": 6337
+    "forks_count": 6342
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -176,7 +176,7 @@
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
     "stargazers_count": 1774,
-    "open_issues_count": 99,
+    "open_issues_count": 98,
     "forks_count": 311
   }
 ]
