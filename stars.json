@@ -1,7 +1,7 @@
 [
   {
     "full_name": "2004content/rarbg",
-    "stargazers_count": 4683,
+    "stargazers_count": 4684,
     "open_issues_count": 24,
     "forks_count": 896
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 4493,
+    "stargazers_count": 4497,
     "open_issues_count": 21,
-    "forks_count": 3580
+    "forks_count": 3583
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
@@ -44,7 +44,7 @@
   {
     "full_name": "JaimeStill/offline-platform",
     "stargazers_count": 2,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 3
   },
   {
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "CodingGarden/sproutkit",
-    "stargazers_count": 35,
+    "stargazers_count": 34,
     "open_issues_count": 8,
     "forks_count": 10
   },
   {
     "full_name": "vaniacer/sshto",
-    "stargazers_count": 489,
+    "stargazers_count": 488,
     "open_issues_count": 5,
     "forks_count": 58
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2347,
-    "open_issues_count": 14,
-    "forks_count": 614
+    "stargazers_count": 2346,
+    "open_issues_count": 15,
+    "forks_count": 615
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
     "stargazers_count": 4800,
     "open_issues_count": 1,
-    "forks_count": 616
+    "forks_count": 615
   },
   {
     "full_name": "githubtraining/advanced-git",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16654,
+    "stargazers_count": 16651,
     "open_issues_count": 2,
     "forks_count": 905
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 136352,
+    "stargazers_count": 136414,
     "open_issues_count": 160,
-    "forks_count": 26039
+    "forks_count": 26046
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 66016,
+    "stargazers_count": 66040,
     "open_issues_count": 2,
-    "forks_count": 6355
+    "forks_count": 6357
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
