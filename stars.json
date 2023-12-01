@@ -13,9 +13,9 @@
   },
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 4672,
+    "stargazers_count": 4676,
     "open_issues_count": 11,
-    "forks_count": 3694
+    "forks_count": 3700
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
@@ -121,19 +121,19 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2371,
-    "open_issues_count": 10,
-    "forks_count": 616
-  },
-  {
-    "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4816,
-    "open_issues_count": 1,
+    "stargazers_count": 2372,
+    "open_issues_count": 14,
     "forks_count": 615
   },
   {
+    "full_name": "vhpoet/react-native-styling-cheat-sheet",
+    "stargazers_count": 4817,
+    "open_issues_count": 1,
+    "forks_count": 614
+  },
+  {
     "full_name": "githubtraining/advanced-git",
-    "stargazers_count": 50,
+    "stargazers_count": 51,
     "open_issues_count": 0,
     "forks_count": 13
   },
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16630,
+    "stargazers_count": 16626,
     "open_issues_count": 2,
     "forks_count": 901
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 139401,
-    "open_issues_count": 162,
-    "forks_count": 26491
+    "stargazers_count": 139462,
+    "open_issues_count": 163,
+    "forks_count": 26507
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 66433,
+    "stargazers_count": 66458,
     "open_issues_count": 2,
-    "forks_count": 6388
+    "forks_count": 6390
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1778,
-    "open_issues_count": 99,
-    "forks_count": 311
+    "stargazers_count": 1779,
+    "open_issues_count": 102,
+    "forks_count": 312
   }
 ]
