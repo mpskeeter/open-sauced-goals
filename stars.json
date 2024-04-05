@@ -1,7 +1,7 @@
 [
   {
     "full_name": "2004content/rarbg",
-    "stargazers_count": 4657,
+    "stargazers_count": 4656,
     "open_issues_count": 24,
     "forks_count": 896
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 4921,
+    "stargazers_count": 4933,
     "open_issues_count": 13,
-    "forks_count": 3850
+    "forks_count": 3859
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
@@ -123,11 +123,11 @@
     "full_name": "SickChill/sickchill",
     "stargazers_count": 2377,
     "open_issues_count": 13,
-    "forks_count": 603
+    "forks_count": 604
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4854,
+    "stargazers_count": 4856,
     "open_issues_count": 1,
     "forks_count": 614
   },
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "learnapollo/learnapollo",
-    "stargazers_count": 5207,
+    "stargazers_count": 5205,
     "open_issues_count": 10,
     "forks_count": 64
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16582,
+    "stargazers_count": 16584,
     "open_issues_count": 2,
     "forks_count": 869
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 141082,
-    "open_issues_count": 164,
-    "forks_count": 26082
+    "stargazers_count": 141395,
+    "open_issues_count": 163,
+    "forks_count": 26111
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 67278,
-    "open_issues_count": 1,
-    "forks_count": 6336
+    "stargazers_count": 67305,
+    "open_issues_count": 2,
+    "forks_count": 6339
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1787,
-    "open_issues_count": 95,
+    "stargazers_count": 1786,
+    "open_issues_count": 94,
     "forks_count": 312
   }
 ]
