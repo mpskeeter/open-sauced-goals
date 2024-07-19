@@ -13,9 +13,9 @@
   },
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 5108,
+    "stargazers_count": 5117,
     "open_issues_count": 16,
-    "forks_count": 3971
+    "forks_count": 3973
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
@@ -73,7 +73,7 @@
   },
   {
     "full_name": "vaniacer/sshto",
-    "stargazers_count": 573,
+    "stargazers_count": 574,
     "open_issues_count": 8,
     "forks_count": 59
   },
@@ -99,13 +99,13 @@
     "full_name": "CodingGarden/twitch-bot",
     "stargazers_count": 32,
     "open_issues_count": 6,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "DanWahlin/AngularCLI-ASPNET-Core-CustomersService",
     "stargazers_count": 123,
     "open_issues_count": 3,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "AmitXShukla/GraphQL-Middleware-JWTAUTH-Authorization",
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2394,
-    "open_issues_count": 13,
-    "forks_count": 608
+    "stargazers_count": 2395,
+    "open_issues_count": 12,
+    "forks_count": 607
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4883,
+    "stargazers_count": 4884,
     "open_issues_count": 1,
     "forks_count": 615
   },
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16557,
+    "stargazers_count": 16554,
     "open_issues_count": 2,
     "forks_count": 867
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 143313,
+    "stargazers_count": 143440,
     "open_issues_count": 166,
-    "forks_count": 26329
+    "forks_count": 26341
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 67983,
+    "stargazers_count": 67998,
     "open_issues_count": 0,
-    "forks_count": 6364
+    "forks_count": 6366
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1797,
+    "stargazers_count": 1798,
     "open_issues_count": 95,
     "forks_count": 311
   }
