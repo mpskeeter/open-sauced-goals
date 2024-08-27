@@ -1,7 +1,7 @@
 [
   {
     "full_name": "2004content/rarbg",
-    "stargazers_count": 4642,
+    "stargazers_count": 4643,
     "open_issues_count": 24,
     "forks_count": 881
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 5178,
-    "open_issues_count": 17,
-    "forks_count": 4012
+    "stargazers_count": 5184,
+    "open_issues_count": 18,
+    "forks_count": 4020
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
@@ -122,12 +122,12 @@
   {
     "full_name": "SickChill/sickchill",
     "stargazers_count": 2398,
-    "open_issues_count": 10,
-    "forks_count": 604
+    "open_issues_count": 11,
+    "forks_count": 603
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4887,
+    "stargazers_count": 4888,
     "open_issues_count": 1,
     "forks_count": 616
   },
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16550,
+    "stargazers_count": 16548,
     "open_issues_count": 2,
     "forks_count": 869
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 144362,
-    "open_issues_count": 165,
-    "forks_count": 26414
+    "stargazers_count": 144389,
+    "open_issues_count": 164,
+    "forks_count": 26419
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 68291,
+    "stargazers_count": 68337,
     "open_issues_count": 19,
-    "forks_count": 6388
+    "forks_count": 6392
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1799,
+    "stargazers_count": 1801,
     "open_issues_count": 95,
     "forks_count": 311
   }
