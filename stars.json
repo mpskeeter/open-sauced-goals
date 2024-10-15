@@ -13,13 +13,13 @@
   },
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 5254,
+    "stargazers_count": 5260,
     "open_issues_count": 20,
-    "forks_count": 4066
+    "forks_count": 4068
   },
   {
     "full_name": "fboeller/microfrontends-with-angular",
-    "stargazers_count": 20,
+    "stargazers_count": 21,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "DanWahlin/AngularCLI-ASPNET-Core-CustomersService",
-    "stargazers_count": 133,
+    "stargazers_count": 134,
     "open_issues_count": 3,
     "forks_count": 79
   },
@@ -122,12 +122,12 @@
   {
     "full_name": "SickChill/sickchill",
     "stargazers_count": 2395,
-    "open_issues_count": 9,
+    "open_issues_count": 12,
     "forks_count": 601
   },
   {
     "full_name": "vhpoet/react-native-styling-cheat-sheet",
-    "stargazers_count": 4899,
+    "stargazers_count": 4900,
     "open_issues_count": 1,
     "forks_count": 614
   },
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "prisma/prisma1",
-    "stargazers_count": 16543,
+    "stargazers_count": 16542,
     "open_issues_count": 2,
-    "forks_count": 863
+    "forks_count": 862
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 144897,
-    "open_issues_count": 162,
-    "forks_count": 26467
+    "stargazers_count": 144987,
+    "open_issues_count": 164,
+    "forks_count": 26486
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 68802,
-    "open_issues_count": 23,
-    "forks_count": 6434
+    "stargazers_count": 68819,
+    "open_issues_count": 22,
+    "forks_count": 6436
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1801,
+    "stargazers_count": 1800,
     "open_issues_count": 95,
     "forks_count": 312
   }
