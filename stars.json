@@ -1,11 +1,5 @@
 [
   {
-    "full_name": "2004content/rarbg",
-    "stargazers_count": 4635,
-    "open_issues_count": 24,
-    "forks_count": 874
-  },
-  {
     "full_name": "MarikaKonturova/Jira_analyzer",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -13,7 +7,7 @@
   },
   {
     "full_name": "marcel-dempers/docker-development-youtube-series",
-    "stargazers_count": 5477,
+    "stargazers_count": 5476,
     "open_issues_count": 15,
     "forks_count": 4170
   },
@@ -121,7 +115,7 @@
   },
   {
     "full_name": "SickChill/sickchill",
-    "stargazers_count": 2416,
+    "stargazers_count": 2417,
     "open_issues_count": 10,
     "forks_count": 594
   },
@@ -151,9 +145,9 @@
   },
   {
     "full_name": "airbnb/javascript",
-    "stargazers_count": 146417,
-    "open_issues_count": 170,
-    "forks_count": 26712
+    "stargazers_count": 146449,
+    "open_issues_count": 171,
+    "forks_count": 26718
   },
   {
     "full_name": "dmiller9911/meetup-react-lifecycle",
@@ -163,9 +157,9 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 69747,
+    "stargazers_count": 69761,
     "open_issues_count": 1,
-    "forks_count": 6468
+    "forks_count": 6469
   },
   {
     "full_name": "spietrek/triangle-reactjs-presentations",
@@ -175,8 +169,14 @@
   },
   {
     "full_name": "schmittjoh/JMSSerializerBundle",
-    "stargazers_count": 1806,
+    "stargazers_count": 1807,
     "open_issues_count": 94,
     "forks_count": 312
+  },
+  {
+    "full_name": "PUGX/PUGXMultiUserBundle",
+    "stargazers_count": 162,
+    "open_issues_count": 41,
+    "forks_count": 93
   }
 ]
